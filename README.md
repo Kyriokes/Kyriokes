@@ -13,7 +13,7 @@ En el pasado trabaje en la fuerza Aérea Argentina, pase por las areas de Salud,
 - Control de versiones: Git, GitHub
 
 ## Proyectos destacados
-- Pokemon Henry [https://github.com/JharolDM/pifoodjharol](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
+- Pokemon Henry [https://github.com/Kyriokes/PokeApiDE-PI](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
 - ChillingTime: https://chillingtime.co/ Un sitio web donde podras rentar espacios VIP en aeropuertos.
 
 ## Contribuciones
