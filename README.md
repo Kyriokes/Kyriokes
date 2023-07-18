@@ -20,7 +20,7 @@ En el pasado trabaje en la fuerza Aérea Argentina, pase por las areas de Salud,
 Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis compañeros. He contribuido a varios proyectos de Henry y siempre estoy buscando nuevas formas de aportar a la comunidad de desarrollo.
 
 ## Contacto
-¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de [https://github.com/kyriokes](https://www.linkedin.com/in/sergiofb/) o por mi correo: Ferrari8986@gmail.com
+¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/sergiofb/) o por mi correo: Ferrari8986@gmail.com
 
 ## ¡Gracias por visitar mi perfil!
 Agradezco que te hayas tomado el tiempo para visitar mi perfil de GitHub. Siéntete libre de explorar mis proyectos y seguirme para estar al tanto de mis últimas actualizaciones. ¡Espero colaborar contigo pronto!
