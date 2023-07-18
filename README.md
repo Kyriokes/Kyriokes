@@ -13,8 +13,8 @@ En el pasado trabaje en la fuerza Aérea Argentina, pase por las areas de Salud,
 - Control de versiones: Git, GitHub
 
 ## Proyectos destacados
-- Pokemon Henry [link del repositorio](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
-- ChillingTime: https://chillingtime.co/ Un sitio web donde podras rentar espacios VIP en aeropuertos.
+- [Pokemon Henry](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
+- [ChillingTime](https://chillingtime.co/):  Un sitio web donde podras rentar espacios VIP en aeropuertos.
 
 ## Contribuciones
 Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis compañeros. He contribuido a varios proyectos de Henry y siempre estoy buscando nuevas formas de aportar a la comunidad de desarrollo.
