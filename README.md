@@ -4,7 +4,7 @@
 Hola soy Sergio👋, un programador Full Stack, un apasionado desarrollador web graduado en Soy Henry en constante aprendizaje. Tengo un gran entusiasmo por la lógica y la planificación.
 Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso de mis habilidades blandas.
 Actualmente, estoy buscando oportunidades laborales como desarrollador back-end o front-end.
-En el pasado trabaje en la fuerza Aérea Argentina, pase por las areas de Salud, Asuntos Jurídicos y Economía.
+En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud, Asuntos Jurídicos y Economía.
 
 ## Tecnologías
 - Front-end: HTML, CSS, JavaScript, React.js, Redux, React-Query
