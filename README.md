@@ -34,9 +34,9 @@ Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis
 
 [LinkedIn](https://www.linkedin.com/in/sergiofb/)
 
-Correo electrónico: Ferrari8986@gmail.com
-
 [Mi Portfolio](https://portfoliosergiofb.vercel.app/)
+
+Correo electrónico: Ferrari8986@gmail.com
 
 ¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/sergiofb/) o por mi correo: Ferrari8986@gmail.com
 
