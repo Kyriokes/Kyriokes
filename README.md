@@ -12,6 +12,14 @@ En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud,
 - Bases de datos: MySQL, PostgreSQL,
 - Control de versiones: Git, GitHub
 
+## Experiencia Profecional
+
+- [BastardosDayZ](https://bastar2.vercel.app/):
+  ● Diseñé y desarrollé una plataforma web desde cero para la comunidad de DayZ, 
+  utilizando React.js y Node.js. 
+  ● Implementé bases de datos PostgreSQL para gestionar información en vivo del 
+  juego. 
+
 ## Proyectos destacados
 - [Pokemon Henry](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
 - [ChillingTime](https://chillingtime.co/):  Un sitio web donde podras rentar espacios VIP en aeropuertos.
