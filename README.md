@@ -30,6 +30,14 @@ En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud,
 Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis compañeros. He contribuido a varios proyectos de Henry y siempre estoy buscando nuevas formas de aportar a la comunidad de desarrollo.
 
 ## 📫 Contacto
+¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de:
+
+[LinkedIn](https://www.linkedin.com/in/sergiofb/)
+
+Correo electrónico: Ferrari8986@gmail.com
+
+[Mi Portfolio](https://portfoliosergiofb.vercel.app/)
+
 ¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/sergiofb/) o por mi correo: Ferrari8986@gmail.com
 
 ## ¡Gracias por visitar mi perfil! 🎉
