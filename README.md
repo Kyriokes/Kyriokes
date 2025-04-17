@@ -6,13 +6,14 @@ Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso 
 Actualmente, estoy buscando oportunidades laborales como desarrollador back-end o front-end.
 En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud, Asuntos Jurídicos y Economía.
 
-## Tecnologías
-- Front-end: HTML, CSS, JavaScript, React.js, Redux, React-Query
-- Back-end: Node.js, Express.js, Prisma
-- Bases de datos: MySQL, PostgreSQL,
+## 🚀 Tecnologías
+- Lenguajes: JavaScript, TypeScript, C#
+- Front-end: HTML, CSS, React.js, Redux, React-Query, Next.js
+- Back-end: Node.js, Express.js, Prisma, Nest.js
+- Bases de datos: Sequelize, SQLite, MySQL, PostgreSQL
 - Control de versiones: Git, GitHub
 
-## Experiencia Profecional
+## 🧑‍💻 Experiencia Profecional
 
 - [BastardosDayZ](https://bastar2.vercel.app/):
 
@@ -21,17 +22,17 @@ En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud,
   - Implementé bases de datos PostgreSQL para gestionar información en vivo del 
   juego. 
 
-## Proyectos destacados
+## 🌟 Proyectos destacados
 - [Pokemon Henry](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
 - [ChillingTime](https://chillingtime.co/):  Un sitio web donde podras rentar espacios VIP en aeropuertos.
 
-## Contribuciones
+## 🤝 Contribuciones
 Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis compañeros. He contribuido a varios proyectos de Henry y siempre estoy buscando nuevas formas de aportar a la comunidad de desarrollo.
 
-## Contacto
+## 📫 Contacto
 ¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/sergiofb/) o por mi correo: Ferrari8986@gmail.com
 
-## ¡Gracias por visitar mi perfil!
+## ¡Gracias por visitar mi perfil! 🎉
 Agradezco que te hayas tomado el tiempo para visitar mi perfil de GitHub. Siéntete libre de explorar mis proyectos y seguirme para estar al tanto de mis últimas actualizaciones. ¡Espero colaborar contigo pronto!
 <!--
 **Kyriokes/Kyriokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
