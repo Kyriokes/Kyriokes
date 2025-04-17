@@ -16,10 +16,9 @@ En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud,
 
 - [BastardosDayZ](https://bastar2.vercel.app/):
 
-  ● Diseñé y desarrollé una plataforma web desde cero para la comunidad de DayZ, 
+  - Diseñé y desarrollé una plataforma web desde cero para la comunidad de DayZ, 
   utilizando React.js y Node.js.
-
-  ● Implementé bases de datos PostgreSQL para gestionar información en vivo del 
+  - Implementé bases de datos PostgreSQL para gestionar información en vivo del 
   juego. 
 
 ## Proyectos destacados
