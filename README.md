@@ -39,7 +39,7 @@ Actualmente:
 - Colaborando en **MatchMaking**, app de reserva de canchas deportivas con accesibilidad moderna — a cargo del frontend (Next.js + TypeScript + Tailwind), junto a un equipo de desarrolladores seniors
 - Experiencia previa analizando y mejorando calidad de código generado por IA
 
-🎯 Buscando rol como **Full Stack Developer** o **Frontend Developer**.
+🎯 Buscando rol como **Full Stack Developer** o **Backend Developer**.
 
 ---
 
@@ -97,7 +97,7 @@ Currently:
 - Collaborating on **MatchMaking**, a sports court booking app with a modern accessibility approach — leading the frontend (Next.js + TypeScript + Tailwind), alongside a team of senior developers
 - Previous experience reviewing and improving AI-generated code quality
 
-🎯 Looking for **Full Stack** or **Frontend Developer** roles.
+🎯 Looking for **Full Stack** or **Backend Developer** roles.
 
 ---
 
