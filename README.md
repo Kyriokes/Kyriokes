@@ -1,13 +1,13 @@
 <h1 align="center">Sergio Ferrari Bryce</h1>
 
 <p align="center">
-  Backend-focused Full Stack Developer
+  Full Stack Developer
 </p>
 
 <p align="center">
-  <a href="https://portfoliosergiofb.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sergiofb/">LinkedIn</a> •
-  <a href="mailto:Ferrari8986@gmail.com">Email</a>
+  <a href="https://portfoliosergiofb.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sergiofb/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="mailto:Ferrari8986@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <!-- BANNER OPCIONAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Backend%20Developer&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=FullStack%20Developer&fontSize=30&fontColor=ffffff"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <details open>
 <summary><h2 id="-español">🇦🇷 Sobre mí</h2></summary>
 
-Soy desarrollador Full Stack con foco en backend.
+Soy desarrollador Full Stack.
 
 Construyo aplicaciones completas con Node.js, TypeScript y PostgreSQL, priorizando escalabilidad y mantenibilidad.
 
