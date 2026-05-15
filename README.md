@@ -12,7 +12,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyriokes&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyriokes&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyriokes&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyriokes&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
@@ -38,7 +39,7 @@ Actualmente:
 - Colaborando en **MatchMaking**, app de reserva de canchas deportivas con accesibilidad moderna — a cargo del frontend (Next.js + TypeScript + Tailwind), junto a un equipo de desarrolladores seniors
 - Experiencia previa analizando y mejorando calidad de código generado por IA
 
-🎯 Buscando rol como **Full Stack Developer**, **Backend Developer** o **Frontend Developer**.
+🎯 Buscando rol como **Full Stack Developer** o **Frontend Developer**.
 
 ---
 
@@ -96,7 +97,7 @@ Currently:
 - Collaborating on **MatchMaking**, a sports court booking app with a modern accessibility approach — leading the frontend (Next.js + TypeScript + Tailwind), alongside a team of senior developers
 - Previous experience reviewing and improving AI-generated code quality
 
-🎯 Looking for **Full Stack**, **Backend** or **Frontend**. roles.
+🎯 Looking for **Full Stack** or **Frontend Developer** roles.
 
 ---
 
