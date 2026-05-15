@@ -1,58 +1,121 @@
-### ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
+<h1 align="center">Sergio Ferrari Bryce</h1>
 
-## Acerca de mí
-Hola soy Sergio👋, un programador Full Stack, un apasionado desarrollador web graduado en Soy Henry en constante aprendizaje. Tengo un gran entusiasmo por la lógica y la planificación.
-Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso de mis habilidades blandas.
-Actualmente, estoy buscando oportunidades laborales como desarrollador back-end o front-end.
-En el pasado trabaje en la Fuerza Aérea Argentina, pase por las areas de Salud, Asuntos Jurídicos y Economía.
+<p align="center">
+  Backend-focused Full Stack Developer
+</p>
 
-## 🚀 Tecnologías
-- Lenguajes: JavaScript, TypeScript, C#
-- Front-end: HTML, CSS, React.js, Redux, React-Query, Next.js
-- Back-end: Node.js, Express.js, Prisma, Nest.js
-- Bases de datos: Sequelize, SQLite, MySQL, PostgreSQL
-- Control de versiones: Git, GitHub
+<p align="center">
+  <a href="https://portfoliosergiofb.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sergiofb/">LinkedIn</a> •
+  <a href="mailto:Ferrari8986@gmail.com">Email</a>
+</p>
 
-## 🧑‍💻 Experiencia Profecional
+<p align="center">
+  <a href="#-english">🇺🇸 English</a> |
+  <a href="#-español">🇦🇷 Español</a>
+</p>
 
-- [BastardosDayZ](https://bastar2.vercel.app/):
+---
 
-  - Diseñé y desarrollé una plataforma web desde cero para la comunidad de DayZ, 
-  utilizando React.js y Node.js.
-  - Implementé bases de datos PostgreSQL para gestionar información en vivo del 
-  juego. 
+<!-- BANNER OPCIONAL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Backend%20Developer&fontSize=30&fontColor=ffffff"/>
+</p>
 
-## 🌟 Proyectos destacados
-- [Pokemon Henry](https://github.com/Kyriokes/PokeApiDE-PI): Un sitio web para poder buscar y crear pokemons.
-- [ChillingTime](https://chillingtime.co/):  Un sitio web donde podras rentar espacios VIP en aeropuertos.
+---
 
-## 🤝 Contribuciones
-Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis compañeros. He contribuido a varios proyectos de Henry y siempre estoy buscando nuevas formas de aportar a la comunidad de desarrollo.
+<!-- STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyriokes&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyriokes&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-## 📫 Contacto
-¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de:
+---
 
-[LinkedIn](https://www.linkedin.com/in/sergiofb/)
+<!-- STACK BADGES -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,docker,git" />
+</p>
 
-[Mi Portfolio](https://portfoliosergiofb.vercel.app/)
+---
 
-Correo electrónico: Ferrari8986@gmail.com
+<details open>
+<summary><h2 id="-español">🇦🇷 Sobre mí</h2></summary>
 
-¡Me encantaría conectarme contigo! Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/sergiofb/) o por mi correo: Ferrari8986@gmail.com
+Soy desarrollador Full Stack con foco en backend.
 
-## ¡Gracias por visitar mi perfil! 🎉
-Agradezco que te hayas tomado el tiempo para visitar mi perfil de GitHub. Siéntete libre de explorar mis proyectos y seguirme para estar al tanto de mis últimas actualizaciones. ¡Espero colaborar contigo pronto!
-<!--
-**Kyriokes/Kyriokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construyo aplicaciones completas con Node.js, TypeScript y PostgreSQL, priorizando escalabilidad y mantenibilidad.
 
-Here are some ideas to get you started:
+🔹 Experiencia real construyendo:
+- APIs REST
+- Autenticación (Google, Steam)
+- Sistemas de pago (PayPal)
+- Paneles administrativos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Experiencia analizando código generado por IA y mejorando su calidad.
+
+🎯 Buscando oportunidades como Backend Developer o Full Stack.
+
+</details>
+
+---
+
+<details>
+<summary><h2 id="-english">🇺🇸 About Me</h2></summary>
+
+Full Stack Developer focused on backend.
+
+I build scalable web applications using Node.js, TypeScript and PostgreSQL.
+
+🔹 Experience with:
+- REST APIs
+- Authentication (Google, Steam)
+- Payment systems (PayPal)
+- Admin dashboards
+
+🔹 Experience reviewing AI-generated code and improving quality.
+
+🎯 Currently looking for Backend or Full Stack roles.
+
+</details>
+
+---
+
+## 🚀 Featured Project
+
+### 🔥 BastardosDayZ  
+https://bastar2.vercel.app/
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Bastardos+Project+Preview" />
+</p>
+
+- Plataforma completa para comunidad de DayZ  
+- Backend con Node.js + PostgreSQL  
+- Integración de datos en tiempo real  
+- Panel administrativo  
+
+---
+
+## 🧠 What I bring
+
+- Pensamiento backend sólido (no solo frontend bonito)  
+- Capacidad de construir proyectos end-to-end  
+- Enfoque en calidad de código (Clean Code, SOLID)  
+- Experiencia real con clientes y productos  
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:Ferrari8986@gmail.com">📩 Email</a> •
+  <a href="https://www.linkedin.com/in/sergiofb/">💼 LinkedIn</a> •
+  <a href="https://portfoliosergiofb.vercel.app/">🌐 Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  Open to work 🚀
+</p>
