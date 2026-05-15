@@ -1,30 +1,16 @@
 <h1 align="center">Sergio Ferrari Bryce</h1>
-
+<p align="center">Full Stack Developer</p>
 <p align="center">
-  Full Stack Developer
+  <a href="https://portfoliosergiofb.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sergiofb/" target="_blank">LinkedIn</a> •
+  <a href="mailto:Ferrari8986@gmail.com">Email</a>
 </p>
-
 <p align="center">
-  <a href="https://portfoliosergiofb.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sergiofb/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-  <a href="mailto:Ferrari8986@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
-</p>
-
-<p align="center">
-  <a href="#-english">🇺🇸 English</a> |
-  <a href="#-español">🇦🇷 Español</a>
+  <a href="#-english">🇺🇸 English</a> | <a href="#-español">🇦🇷 Español</a>
 </p>
 
 ---
 
-<!-- BANNER OPCIONAL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=FullStack%20Developer&fontSize=30&fontColor=ffffff"/>
-</p>
-
----
-
-<!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyriokes&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyriokes&theme=tokyonight&hide_border=true" height="150"/>
@@ -32,81 +18,59 @@
 
 ---
 
-<!-- STACK BADGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,docker,git" />
 </p>
 
 ---
 
 <details open>
-<summary><h2 id="-español">🇦🇷 Sobre mí</h2></summary>
+<summary><h2 id="-español">🇦🇷 Español</h2></summary>
 
-Soy desarrollador Full Stack.
+### Sobre mí
 
-Construyo aplicaciones completas con Node.js, TypeScript y PostgreSQL, priorizando escalabilidad y mantenibilidad.
+Construyo aplicaciones que atienden una problemática real. Me gusta conocer el negocio en profundidad para entender sus necesidades y elegir la solución que mejor se ajuste a su público.
 
-🔹 Experiencia real construyendo:
-- APIs REST
-- Autenticación (Google, Steam)
-- Sistemas de pago (PayPal)
-- Paneles administrativos
+Trabajo con **TypeScript, React, Next.js, Node.js y PostgreSQL**. Me interesa especialmente integrar IA en aplicaciones reales como features funcionales, no como experimento.
 
-🔹 Experiencia analizando código generado por IA y mejorando su calidad.
+Actualmente:
+- Construyendo **KeyWords**, plataforma con IA para optimizar la búsqueda laboral — arquitectura propia, deploy activo
+- Colaborando en **MatchMaking**, app de reserva de canchas deportivas con accesibilidad moderna — a cargo del frontend (Next.js + TypeScript + Tailwind), junto a un equipo de desarrolladores seniors
+- Experiencia previa analizando y mejorando calidad de código generado por IA
 
-🎯 Buscando oportunidades como Backend Developer o Full Stack.
-
-</details>
+🎯 Buscando rol como **Full Stack Developer**, **Backend Developer** o **Frontend Developer**.
 
 ---
 
-<details>
-<summary><h2 id="-english">🇺🇸 About Me</h2></summary>
+### 🚀 Proyectos destacados
 
-Full Stack Developer focused on backend.
+#### 🔑 KeyWords *(en desarrollo)*
+Plataforma con IA para optimizar la búsqueda de empleo. Analiza CVs, genera estrategias personalizadas y automatiza parte del proceso de postulación.
 
-I build scalable web applications using Node.js, TypeScript and PostgreSQL.
-
-🔹 Experience with:
-- REST APIs
-- Authentication (Google, Steam)
-- Payment systems (PayPal)
-- Admin dashboards
-
-🔹 Experience reviewing AI-generated code and improving quality.
-
-🎯 Currently looking for Backend or Full Stack roles.
-
-</details>
+- **Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma · OpenAI API
+- **Auth:** Google OAuth
+- **Estado:** Deploy activo — repositorio disponible a pedido
 
 ---
 
-## 🚀 Featured Project
+#### ⚽ MatchMaking *(en desarrollo activo)*
+App de reserva de canchas deportivas con accesibilidad moderna.
 
-### 🔥 BastardosDayZ  
-https://bastar2.vercel.app/
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Bastardos+Project+Preview" />
-</p>
-
-- Plataforma completa para comunidad de DayZ  
-- Backend con Node.js + PostgreSQL  
-- Integración de datos en tiempo real  
-- Panel administrativo  
+- **Stack:** Next.js · TypeScript · Tailwind CSS
+- **Rol:** Frontend Lead — equipo de desarrolladores seniors
+- **Estado:** En progreso
 
 ---
 
-## 🧠 What I bring
+#### 🎮 BastardosDayZ
+Plataforma web para comunidad de DayZ con autenticación Steam, panel administrativo y sistema de membresías.
 
-- Pensamiento backend sólido (no solo frontend bonito)  
-- Capacidad de construir proyectos end-to-end  
-- Enfoque en calidad de código (Clean Code, SOLID)  
-- Experiencia real con clientes y productos  
+- **Stack:** Node.js · PostgreSQL · React · Express
+- **Demo:** [bastar2.vercel.app](https://bastar2.vercel.app/)
 
 ---
 
-## 📫 Contact
+### 📫 Contacto
 
 <p align="center">
   <a href="mailto:Ferrari8986@gmail.com">📩 Email</a> •
@@ -114,8 +78,62 @@ https://bastar2.vercel.app/
   <a href="https://portfoliosergiofb.vercel.app/">🌐 Portfolio</a>
 </p>
 
+</details>
+
 ---
 
+<details>
+<summary><h2 id="-english">🇺🇸 English</h2></summary>
+
+### About Me
+
+I build applications that solve real problems. I like understanding the business deeply — its needs, its audience — so I can choose the solution that actually fits.
+
+I work with **TypeScript, React, Next.js, Node.js, and PostgreSQL**. I'm particularly interested in integrating AI into real applications as actual product features, not just experiments.
+
+Currently:
+- Building **KeyWords**, an AI-powered platform for job search optimization — custom architecture, live deploy
+- Collaborating on **MatchMaking**, a sports court booking app with a modern accessibility approach — leading the frontend (Next.js + TypeScript + Tailwind), alongside a team of senior developers
+- Previous experience reviewing and improving AI-generated code quality
+
+🎯 Looking for **Full Stack**, **Backend** or **Frontend**. roles.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔑 KeyWords *(in development)*
+AI-powered platform to optimize the job search process. Analyzes resumes, generates personalized strategies and automates parts of the application workflow.
+
+- **Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma · OpenAI API
+- **Auth:** Google OAuth
+- **Status:** Live deploy — repository available on request
+
+---
+
+#### ⚽ MatchMaking *(active development)*
+Sports court booking app with a modern accessibility approach.
+
+- **Stack:** Next.js · TypeScript · Tailwind CSS
+- **Role:** Frontend Lead — team of senior developers
+- **Status:** In progress
+
+---
+
+#### 🎮 BastardosDayZ
+Web platform for a DayZ gaming community with Steam authentication, admin dashboard and membership system.
+
+- **Stack:** Node.js · PostgreSQL · React · Express
+- **Demo:** [bastar2.vercel.app](https://bastar2.vercel.app/)
+
+---
+
+### 📫 Contact
+
 <p align="center">
-  Open to work 🚀
+  <a href="mailto:Ferrari8986@gmail.com">📩 Email</a> •
+  <a href="https://www.linkedin.com/in/sergiofb/">💼 LinkedIn</a> •
+  <a href="https://portfoliosergiofb.vercel.app/">🌐 Portfolio</a>
 </p>
+
+</details>
