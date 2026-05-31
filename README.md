@@ -36,7 +36,7 @@ Trabajo con **TypeScript, React, Next.js, Node.js y PostgreSQL**. Me interesa es
 
 Actualmente:
 - Construyendo **KeyWords**, plataforma con IA para optimizar la búsqueda laboral — arquitectura propia, deploy activo
-- Colaborando en **MatchMaking**, app de reserva de canchas deportivas con accesibilidad moderna — a cargo del frontend (Next.js + TypeScript + Tailwind), junto a un equipo de desarrolladores seniors
+- Colaborando en **MatchMaking**, app de reserva con accesibilidad moderna — a cargo del frontend (Next.js + TypeScript + Tailwind), junto a un equipo de desarrolladores seniors
 - Experiencia previa analizando y mejorando calidad de código generado por IA
 
 🎯 Buscando rol como **Full Stack Developer** o **Backend Developer**.
@@ -94,7 +94,7 @@ I work with **TypeScript, React, Next.js, Node.js, and PostgreSQL**. I'm particu
 
 Currently:
 - Building **KeyWords**, an AI-powered platform for job search optimization — custom architecture, live deploy
-- Collaborating on **MatchMaking**, a sports court booking app with a modern accessibility approach — leading the frontend (Next.js + TypeScript + Tailwind), alongside a team of senior developers
+- Collaborating on **MatchMaking**, a booking app with a modern accessibility approach — leading the frontend (Next.js + TypeScript + Tailwind), alongside a team of senior developers
 - Previous experience reviewing and improving AI-generated code quality
 
 🎯 Looking for **Full Stack** or **Backend Developer** roles.
@@ -116,7 +116,7 @@ AI-powered platform to optimize the job search process. Analyzes resumes, genera
 Sports court booking app with a modern accessibility approach.
 
 - **Stack:** Next.js · TypeScript · Tailwind CSS
-- **Role:** Frontend Lead — team of senior developers
+- **Role:** Frontend
 - **Status:** In progress
 
 ---
