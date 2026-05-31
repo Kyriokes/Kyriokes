@@ -55,10 +55,10 @@ Plataforma con IA para optimizar la búsqueda de empleo. Analiza CVs, genera est
 ---
 
 #### ⚽ MatchMaking *(en desarrollo activo)*
-App de reserva de canchas deportivas con accesibilidad moderna.
+App de reserva con accesibilidad moderna.
 
 - **Stack:** Next.js · TypeScript · Tailwind CSS
-- **Rol:** Frontend Lead — equipo de desarrolladores seniors
+- **Rol:** Frontend
 - **Estado:** En progreso
 
 ---
