@@ -4,6 +4,7 @@
   <a href="https://portfoliosergiofb.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sergiofb/" target="_blank">LinkedIn</a> •
   <a href="mailto:ferrari8986@gmail.com">Email</a> •
+  <a href="https://wa.me/5491535040982?text=%C2%A1Hola%20Sergio,%20me%20contacto%20con%20vos%20desde%20tu%20GitHub!%0AMe%20llamo:%0ATe%20contacto%20respecto%20a%20..." target="_blank">WhatsApp</a> •
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE.pdf" target="_blank">CV (ES)</a> •
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE_EN.pdf" target="_blank">CV (EN)</a>
 </p>
@@ -109,6 +110,7 @@ E-commerce de comida natural para mascotas que conecta clientes, nutricionistas 
 <p align="center">
   <a href="mailto:ferrari8986@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/sergiofb/">💼 LinkedIn</a> •
+  <a href="https://wa.me/5491535040982?text=%C2%A1Hola%20Sergio,%20me%20contacto%20con%20vos%20desde%20tu%20GitHub!%0AMe%20llamo:%0ATe%20contacto%20respecto%20a%20...">📱 WhatsApp</a> •
   <a href="https://portfoliosergiofb.vercel.app/">🌐 Portfolio</a> •
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE.pdf">📄 CV</a>
 </p>
@@ -199,6 +201,7 @@ An e-commerce for natural pet food that connects customers, animal nutritionists
 <p align="center">
   <a href="mailto:ferrari8986@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/sergiofb/">💼 LinkedIn</a> •
+  <a href="https://wa.me/5491535040982?text=Hi%20Sergio,%20I%20found%20you%20on%20GitHub!%0AMy%20name%20is:%0AI%20am%20contacting%20you%20about%20...">📱 WhatsApp</a> •
   <a href="https://portfoliosergiofb.vercel.app/">🌐 Portfolio</a> •
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE_EN.pdf">📄 Resume</a>
 </p>
