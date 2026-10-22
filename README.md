@@ -48,7 +48,7 @@ Actualmente:
 
 ### 🚀 Proyectos destacados
 
-Todos tienen demo en vivo. La lista completa está en el [portfolio](https://portfoliosergiofb.vercel.app/#projects).
+Todos tienen demo en vivo. La lista completa está en el [portfolio](https://portfoliosergiofb.vercel.app/es#projects).
 
 #### 🎮 AoE2 BO Coach *(2026)*
 Overlay de código abierto para Age of Empires II: Definitive Edition que lee la pantalla con OCR, sigue una build order paso a paso, se adapta cuando el jugador se desvía y te dice dónde poner cada aldeano. Viene con una biblioteca web pública para compartir build orders.
@@ -111,7 +111,7 @@ E-commerce de comida natural para mascotas que conecta clientes, nutricionistas 
   <a href="mailto:ferrari8986@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/sergiofb/">💼 LinkedIn</a> •
   <a href="https://wa.me/5491535040982?text=%C2%A1Hola%20Sergio,%20me%20contacto%20con%20vos%20desde%20tu%20GitHub!%0AMe%20llamo:%0ATe%20contacto%20respecto%20a%20...">📱 WhatsApp</a> •
-  <a href="https://portfoliosergiofb.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://portfoliosergiofb.vercel.app/es">🌐 Portfolio</a> •
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE.pdf">📄 CV</a>
 </p>
 
