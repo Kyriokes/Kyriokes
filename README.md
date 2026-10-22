@@ -1,4 +1,4 @@
-<h1 align="center">Sergio Ferrari Bryce</h1>
+<h1 align="center"><a href="https://portfoliosergiofb.vercel.app/">Sergio Ferrari Bryce</a></h1>
 <p align="center">Full Stack Developer · Buenos Aires, Argentina</p>
 <p align="center">
   <a href="https://portfoliosergiofb.vercel.app/" target="_blank">Portfolio</a> •
