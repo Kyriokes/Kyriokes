@@ -1,5 +1,7 @@
 <h1 align="center"><a href="https://portfoliosergiofb.vercel.app/">Sergio Ferrari Bryce</a></h1>
-<p align="center">Full Stack Developer · Buenos Aires, Argentina</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Buenos+Aires%2C+Argentina" alt="Full Stack Developer · Buenos Aires, Argentina" />
+</p>
 <p align="center">
   <a href="https://portfoliosergiofb.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sergiofb/" target="_blank">LinkedIn</a> •
@@ -20,15 +22,23 @@
   <img src="https://streak-stats.demolab.com/?user=Kyriokes&theme=tokyonight&hide_border=true&timezone=America/Argentina/Buenos_Aires" height="150"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,react,nextjs,nodejs,express,prisma,postgres,supabase,tailwind,docker,git,vercel&perline=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
+    <img alt="Animación de una viborita comiendo mi gráfico de contribuciones" src="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-<details open>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,py,react,nextjs,nodejs,express,vite,prisma,postgres,supabase,tailwind,docker,git,vercel&perline=9" alt="TypeScript, JavaScript, C#, .NET, Python, React, Next.js, Node.js, Express, Vite, Prisma, PostgreSQL, Supabase, Tailwind CSS, Docker, Git, Vercel" />
+</p>
+
+---
+
+<details>
 <summary><h2 id="-español">🇦🇷 Español</h2></summary>
 
 ### Sobre mí
