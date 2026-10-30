@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyriokes&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyriokes&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Kyriokes&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Kyriokes&theme=tokyonight&hide_border=true&timezone=America/Argentina/Buenos_Aires" height="150"/>
 </p>
 
 ---
