@@ -10,25 +10,10 @@
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE.pdf" target="_blank">CV (ES)</a> •
   <a href="https://portfoliosergiofb.vercel.app/CV_SERGIO_FERRARI_BRYCE_EN.pdf" target="_blank">CV (EN)</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="#-español">🇦🇷 Español</a> | <a href="#-english">🇺🇸 English</a>
-</p>
+</p> -->
 
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyriokes&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyriokes&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Kyriokes&theme=tokyonight&hide_border=true&timezone=America/Argentina/Buenos_Aires" height="150"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
-    <img alt="Animación de una viborita comiendo mi gráfico de contribuciones" src="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
@@ -217,3 +202,19 @@ An e-commerce for natural pet food that connects customers, animal nutritionists
 </p>
 
 </details>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyriokes&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyriokes&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Kyriokes&theme=tokyonight&hide_border=true&timezone=America/Argentina/Buenos_Aires" height="150"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
+    <img alt="Animación de una viborita comiendo mi gráfico de contribuciones" src="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
+  </picture>
+</p>
