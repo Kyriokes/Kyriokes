@@ -215,6 +215,6 @@ An e-commerce for natural pet food that connects customers, animal nutritionists
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
-    <img alt="Animación de una viborita comiendo mi gráfico de contribuciones" src="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
+    <img  alt="Animación de una viborita comiendo mi gráfico de contribuciones" src="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-snake.svg" />
   </picture>
 </p>
