@@ -19,9 +19,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Mapa de calor: amarillo, naranja, rojo y violeta según la cantidad de contribuciones
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#2da44e&color_dots=#ebedf0,#ffd43b,#ff8c00,#e5383b,#9d4edd
+            dist/github-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#ffd43b,#ff8c00,#e5383b,#9d4edd
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
