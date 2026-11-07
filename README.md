@@ -208,7 +208,7 @@ An e-commerce for natural pet food that connects customers, animal nutritionists
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyriokes&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyriokes&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Kyriokes&theme=tokyonight&hide_border=true&timezone=America/Argentina/Buenos_Aires" height="150"/>
+  <img src="https://raw.githubusercontent.com/Kyriokes/Kyriokes/output/github-streak.svg" alt="Racha de contribuciones en GitHub" height="150"/>
 </p>
 
 <p align="center">
