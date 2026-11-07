@@ -1,9 +1,11 @@
-name: Generate snake
+name: Generate snake and streak
 
 on:
   schedule:
-    # Todos los días a las 00:00 de Argentina (03:00 UTC)
-    - cron: "0 3 * * *"
+    # Cada hora, para que la racha y la viborita muestren los commits del día.
+    # Minuto 17 y no en punto: GitHub demora los cron de la hora en punto
+    # (el de las 03:00 UTC arrancaba recién a las ~10:00 UTC).
+    - cron: "17 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -23,6 +25,15 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#2da44e&color_dots=#ebedf0,#ffd43b,#ff8c00,#e5383b,#9d4edd
             dist/github-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#ffd43b,#ff8c00,#e5383b,#9d4edd
+
+      # La racha se genera acá y se publica en el branch output. Si el README la
+      # pidiera directo a streak-stats.demolab.com, GitHub la guardaría 24 h en su
+      # caché (el servicio responde max-age=86400) y podría mostrar una racha vieja
+      # o en 0 durante un día entero.
+      - uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=America/Argentina/Buenos_Aires
+          path: dist/github-streak.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
